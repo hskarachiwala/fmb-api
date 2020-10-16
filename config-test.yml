@@ -1,0 +1,7 @@
+template: Hello, %s!
+defaultName: Stranger
+
+mongoConfig:
+  server: localhost
+  port: 27017
+  dbName: fmb-austin
